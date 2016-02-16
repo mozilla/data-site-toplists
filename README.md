@@ -15,3 +15,4 @@ We've also attempted to remove NSFW sites. This is mostly to ensure our projects
 
 Editing the lists is helpful because it helps us focus on important sites and prioritise problems that can have a big impact. **If you would like to suggest a change to one of the lists we welcome pull requests.**
 
+Note: due to subsequent editing, the numbers in the list names do not really have any meaning - we don't list exactly 50 sites in the US-50 list, although it originally did.
