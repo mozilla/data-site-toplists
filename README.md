@@ -8,7 +8,7 @@ The lists are sourced from site ranking services like Alexa and Similarweb.com, 
 Basically, the goals for the editing were:
 
 * Remove "noise" like t.co and googleusercontent.com - domains that are of no real independent importance
-* Remove spam sites and link farms that achieved artificial high scores (and important problem in smaller locales)
+* Remove spam sites and link farms that achieved artificial high scores (an important problem in smaller locales)
 * Remove major global sites from local listings. Trying to focus on the most important sites in a given country is less interesting when issues for Facebook and Google clog up all the data collection.
 
 We've also attempted to remove NSFW sites. This is mostly to ensure our projects and activities are inclusive and welcoming everyone - also those who for whatever reasons prefer to avoid NSFW sites and screenshots of those.
