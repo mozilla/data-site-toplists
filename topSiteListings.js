@@ -1,4 +1,5 @@
-var fs = require('fs');
+var fs = require('fs'),
+  path = require('path');
 /**
 This module's main purpose is to keep instances
 of the data from the *.json files in memory and return
@@ -11,7 +12,7 @@ init();
 function init() {
     'use strict';
     // Go through files
-    var countryfilesPath = "./bycountry";
+    var countryfilesPath = __dirname + path.sep + "bycountry";
     var files = fs.readdirSync(countryfilesPath);
     var i, listname;
     var j, list, domain;
