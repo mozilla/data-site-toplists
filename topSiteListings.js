@@ -14,7 +14,7 @@ function init() {
     var countryfilesPath = "./bycountry";
     var files = fs.readdirSync(countryfilesPath);
     var i, listname;
-    var j, list;
+    var j, list, domain;
     for (i in files) {
         if(!/\.json$/.test(files[i])) {
             continue;
